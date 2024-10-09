@@ -11,3 +11,8 @@ pip install streamlit
 streamlit run dashboard.py
 
 ## Penggunaan
+1. Masuk ke directory local
+   cd/proyekanalisisdatadicoding/dashboard/
+   streamlit run dasboard.py
+
+2. Atau masuk ke link berikut https://dicoding-mafda-qkhjvmga3py5uzx3hjcf7x.streamlit.app/
